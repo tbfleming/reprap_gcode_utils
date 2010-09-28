@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "send-gcode", "send-gcode.vcxproj", "{66D4719A-9CF3-4F87-A5BE-D4F2DCCA5099}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66D4719A-9CF3-4F87-A5BE-D4F2DCCA5099}.Debug|Win32.ActiveCfg = Debug|Win32
+		{66D4719A-9CF3-4F87-A5BE-D4F2DCCA5099}.Debug|Win32.Build.0 = Debug|Win32
+		{66D4719A-9CF3-4F87-A5BE-D4F2DCCA5099}.Release|Win32.ActiveCfg = Release|Win32
+		{66D4719A-9CF3-4F87-A5BE-D4F2DCCA5099}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
